@@ -1,0 +1,5 @@
+apks/
+*.apk
+*.xapk
+*.p7b
+*.dex
